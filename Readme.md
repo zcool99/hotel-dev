@@ -4,6 +4,9 @@
 
 Evaluación del proyecto - Módulo 1
 
+![alt text](http://omarhdez.site/captura.png)
+
+
 ### Framework
 
 Bootstrap 4.0.
