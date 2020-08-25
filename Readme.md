@@ -4,7 +4,7 @@
 
 Evaluación del proyecto - Módulo 1
 
-![alt text](http://omarhdez.site/captura.png)
+![alt text](http://omarhdez.site/captura.jpeg)
 
 
 ### Framework
