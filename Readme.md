@@ -1,4 +1,4 @@
-# hotel-dev
+# Hoteles Hernandez
 
 ## Full Stack Web Development en Español
 
