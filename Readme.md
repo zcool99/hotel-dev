@@ -25,6 +25,6 @@ Bootstrap 4.0.
 
 ### Cambios efectuados
 
-24 de Agosto :: Agregar imagenes y darle estilo a la página principal - Omar Hdez<br />
-31 de Agosto :: Agregar navegación, más secciones, tablas, iconos y contacto.
+24 de Agosto :: Agregar imagenes y darle estilo a la página principal. - Omar Hdez<br />
+31 de Agosto :: Agregar navegación, más secciones, tablas, iconos y contacto. - Omar Hdez<br />
 
