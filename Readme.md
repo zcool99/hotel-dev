@@ -2,10 +2,13 @@
 
 ## Full Stack Web Development en Español
 
-Evaluación del proyecto - Módulo 2
+Evaluación del proyecto - Módulo 3
 
-![alt text](http://omarhdez.site/hotel2.jpeg)
+![alt text](http://omarhdez.site/hotel3.jpeg)
 
+![alt text](http://omarhdez.site/hotel4.jpeg)
+
+![alt text](http://omarhdez.site/modal.jpeg)
 
 ### Framework
 
@@ -27,4 +30,5 @@ Bootstrap 4.0.
 
 24 de Agosto :: Agregar imagenes y darle estilo a la página principal. - Omar Hdez<br />
 31 de Agosto :: Agregar navegación, más secciones, tablas, iconos y contacto. - Omar Hdez<br />
+07 de Septiembre :: Agregar tabs, modal y carousel. - Omar Hdez<br />
 
